@@ -4,6 +4,17 @@
   - Any other pokemon that require badges/hall of fame? What is in the cave?
   - Need to discover which is fastest but skipping hall of fame is almost certainly faster 
 - Skip most catching until you have master/ultra balls + fly
+- Missingno
+  - If any of the missingno transform into a useful pokemon if caught: 1 does this properly add to the pokedex? 2 can they be traded?
+  - Routing Missingno encounters?
+  - Can you use whiteout to force more fly glitch missingnos?
+- Abra/teleport backup
+  - Trade to get mew and grab the teleport TM one east of cerulean after getting cut 
+- Consider paralyze heals for rock tunnel oddish
+- Compare time for Agatha Porygon vs “Nugget dupe> buy coins”
+- Can Moltres be manip’d for fly encounters? if so what values?
+- Faster to get free Eevee or triple reset off Samantha?
+
 
 # Major Challenges
 - Dupe Pokemon Doesn’t Register to Pokedex
