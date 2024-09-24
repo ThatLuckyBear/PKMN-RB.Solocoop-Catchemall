@@ -1,3 +1,10 @@
+# Routing Ideas
+- Catch Mew early and /use/ it 
+- Skip badges/hall of fame by getting mewtwo via fly glitch?
+  - Any other pokemon that require badges/hall of fame? What is in the cave?
+  - Need to discover which is fastest but skipping hall of fame is almost certainly faster 
+- Skip most catching until you have master/ultra balls + fly
+
 # Major Challenges
 - Dupe Pokemon Doesn’t Register to Pokedex
   - Trade required? 
@@ -249,3 +256,6 @@ Fly
 #### Missingno (item underflow)
 #### EXP Underflow
 - level 100 Pokemon via fly glitch
+
+#### RNG Manip Info
+- Getting items and encountering trainers mess with RNG so don't play fast and loose with these
