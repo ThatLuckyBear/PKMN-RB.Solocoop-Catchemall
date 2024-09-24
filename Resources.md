@@ -19,3 +19,4 @@
 - [Glitchless Any% Speedrun Guide](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/beginner-route/2021/lass/)
   - comprehensive and updated
 - [Glitch City archive](https://archives.glitchcity.info/wiki/Luck_manipulation_(Generation_I).html) RNG Manipulation breakdown
+- [List of Pokemon by Index via Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_index_number_(Generation_I)) - lookups for fly glitch
