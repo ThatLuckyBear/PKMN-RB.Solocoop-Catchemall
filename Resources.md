@@ -22,4 +22,5 @@
 - [List of Pokemon by Index via Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_index_number_(Generation_I)) - lookups for fly glitch
 - [Capture Calculator](https://pycosites.com/pkmn/catch_gen1.php)
 - [Bluemoonfalls](https://bluemoonfalls.com/) - lots of resources but haven't investigated if there's anything useful
-- [Gettable Items Map](https://drive.google.com/file/d/132UsWCg3WnxqSyuseB4Fahzbc1zyKRlE/view) - Drive Link
+- [Gettable Items Map](https://drive.google.com/file/d/132UsWCg3WnxqSyuseB4Fahzbc1zyKRlE/view) - Drive Link, map of where all pickup items are
+- [Kanto Trainer Fly Index Map](https://drive.google.com/file/d/12z_tpz5PuInO-7ebhVMvT0yXAxE6btTW/view) - Drive Link, map of all trainers and what pokemon index you can store
