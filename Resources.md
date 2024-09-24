@@ -24,3 +24,5 @@
 - [Bluemoonfalls](https://bluemoonfalls.com/) - lots of resources but haven't investigated if there's anything useful
 - [Gettable Items Map](https://drive.google.com/file/d/132UsWCg3WnxqSyuseB4Fahzbc1zyKRlE/view) - Drive Link, map of where all pickup items are
 - [Kanto Trainer Fly Index Map](https://drive.google.com/file/d/12z_tpz5PuInO-7ebhVMvT0yXAxE6btTW/view) - Drive Link, map of all trainers and what pokemon index you can store
+- [Pokemon Getter Tracker](https://pco.bobchao87.com/#/app/main) - website for visual tracking as you catch for when random encounters end up with a get
+-  
